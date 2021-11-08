@@ -19,7 +19,7 @@
 * Markdown
 * javaScript
 
-**University:** Sumy State University, Sumy State University
+**University:** Sumy State University,
 faculty of Electronics and Information Technology
 
 **Experience** 
